@@ -1,0 +1,24 @@
+{
+  "name": "flymate",
+  "version": "1.0.0",
+  "description": "A rule based bot to assist passenger during their course of flight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "facebook",
+    "messenger",
+    "bot",
+    "api.ai"
+  ],
+  "author": "Subhamoy Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
