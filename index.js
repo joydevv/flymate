@@ -9,7 +9,7 @@ app.listen((process.env.PORT || 3000));
 
 // Server frontpage
 app.get('/', function (req, res) {
-    res.send('This is Flymate bot server');
+    res.send('This is Flymate bot server. This is from c9.io');
 });
 
 // Facebook Webhook
